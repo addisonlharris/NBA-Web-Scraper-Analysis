@@ -1,0 +1,5 @@
+![nba wins vs lost](https://github.com/user-attachments/assets/5aca7507-15fa-4ec3-bb16-3af7263d14c8)
+![playoffs wins vs lost](https://github.com/user-attachments/assets/7405a281-a3ed-4781-89a0-1d2255eb0c43)
+![nba most wins](https://github.com/user-attachments/assets/70a52e5e-2831-421f-a66e-b9c07f397643)
+![playoffs most wins](https://github.com/user-attachments/assets/4be16142-2258-4c31-bcfe-f177d74cf29c)
+![division win percentage](https://github.com/user-attachments/assets/c404d94f-60f2-4dab-86e4-2f56c0b692f4)
